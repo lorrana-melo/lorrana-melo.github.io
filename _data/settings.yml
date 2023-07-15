@@ -10,8 +10,8 @@ description: Jornalista de dados e fotógrafa
 author:
   name: Lorrana Melo
   image: 01.jpg
-  say-hello: <strong>Jornalista de Dados</strong>
-  bio: Esse é um texto para <strong>tentar</strong>, <strong>ver</strong>, <strong>se funciona</strong>, a minha ideia sobre o que quero dizer sobre mim! Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: <strong>Jornalista</strong>
+  bio: Apoixanada pelo <strong>poder</strong> dos dados e das redes sociais na <strong>comunicação</strong>, me dedico a desvendar os enigmas por trás das <strong>informações</strong> e a entender como elas se espalham e impactam a <strong>sociedade</strong>.
 
 
 #-------------------------------
@@ -19,8 +19,8 @@ author:
 twitter: https://twitter.com/l0rr4n4_ # Add your Twitter handle
 #facebook: https://facebook.com/ # Add your Facebook handle
 #dribbble: https://dribbble.com/ # Add your Dribbble handle
-#instagram: https://instagram.com/ # Add your Instagram handle
-#pinterest: https://pinterest.com/ # Add your Pinterest handle
+instagram: https://instagram.com/l0rr4n4_ # Add your Instagram handle
+pinterest: https://pinterest.com/lorranameloo # Add your Pinterest handle
 
 
 #-------------------------------
@@ -31,7 +31,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 #-------------------------------
 # Instagram Feed
 instafeed: # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: l0rr4n4_ # Add instagram username
 
 
 #-------------------------------
